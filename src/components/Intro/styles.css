@@ -1,0 +1,9 @@
+#mainSwiper{
+  position: absolute;
+  top: -15px;
+  z-index: -50;
+  opacity: 0.9;
+  margin-top: 0;
+  padding-top: 0;
+}
+
